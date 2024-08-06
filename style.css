@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background: linear-gradient(to right, #ff00ff, #00ffff); 
+    color: blue;
+    font-size: 20px; 
+    font-family: Arial;
+    text-align: left; 
+}
+
+h1 {
+    font-size: 40px; 
+    color: pink;
+    font-family: Times New Roman;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    font-family: Times New Roman; 
+}
+h3 {
+  font-size: 20px;
+    color: black;
+    font-family: Times New Roman; 
+  }
+a {
+    color: blue;
+    text-decoration: none; 
+}
